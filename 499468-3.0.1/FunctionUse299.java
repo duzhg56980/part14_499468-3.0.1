@@ -1,0 +1,7 @@
+import istio.v1.auth.IstioCertificateServiceGrpc.IstioCertificateServiceMethodDescriptorSupplier;
+public class FunctionUse299 {
+public void funcUse() {
+IstioCertificateServiceMethodDescriptorSupplier istiocertificateservicemethoddescriptorsupplier = new IstioCertificateServiceMethodDescriptorSupplier();
+istiocertificateservicemethoddescriptorsupplier.getMethodDescriptor();
+}
+}

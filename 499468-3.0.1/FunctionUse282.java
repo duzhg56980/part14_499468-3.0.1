@@ -1,0 +1,7 @@
+import istio.v1.auth.IstioCertificateServiceGrpc.IstioCertificateServiceBaseDescriptorSupplier;
+public class FunctionUse282 {
+public void funcUse() {
+IstioCertificateServiceBaseDescriptorSupplier istiocertificateservicebasedescriptorsupplier = new IstioCertificateServiceBaseDescriptorSupplier();
+istiocertificateservicebasedescriptorsupplier.getServiceDescriptor();
+}
+}

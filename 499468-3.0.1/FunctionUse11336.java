@@ -1,0 +1,6 @@
+import org.apache.dubbo.qos.command.CommandContext;
+public class FunctionUse11336 {
+public void funcUse() {
+CommandContext commandcontext = new CommandContext();
+}
+}
